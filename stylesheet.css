@@ -1,0 +1,24 @@
+body {
+  margin-left: 450px;
+}
+#main-container {
+
+  border: solid;
+  border-color: black;
+  width: 420px;
+  background-color: #C8E9EF;
+}
+
+#screen {
+  width: 410px;
+  height: 70px;
+  font-size: 30px;
+  background-color: #EFFAFC;
+}
+
+.number, .calculate {
+  width: 100px;
+  height: 100px;
+  background-color: #62a9b6;
+  font-size: 30px;
+}
